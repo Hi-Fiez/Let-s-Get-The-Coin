@@ -1,4 +1,4 @@
-# Let-s-Get-The-Coin
+# Let's Get The Coin
 Let's Get The Coin Game
 
 Introduction
