@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="hi_fieztech.letsgetthecoin" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Let's get the coin</name>
+    <description>
+    </description>
+    <author email="abdlahafizh163@gmail.com" href="www.hi-fiez.cf" />
+    <content src="index.html" />
+    <access origin="*" />
+    <icon height="150" src="res/windows8/logo.png" width="150" />
+    <icon height="30" src="res/windows8/smalllogo.png" width="30" />
+    <icon height="50" src="res/windows8/storelogo.png" width="50" />
+    <splash height="300" src="res/screen/windows8/splashscreen.png" width="620" />
+    <preference name="windows-target-version" value="8.1" />
+</widget>

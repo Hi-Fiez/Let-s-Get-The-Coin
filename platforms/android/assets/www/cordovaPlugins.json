@@ -1,0 +1,6 @@
+{
+  "cordova-plugin-console": "*",
+  "cordova-plugin-websql": "*",
+  "cordova-plugin-inappbrowser": "*",
+  "cordova-plugin-media": "*"
+}
