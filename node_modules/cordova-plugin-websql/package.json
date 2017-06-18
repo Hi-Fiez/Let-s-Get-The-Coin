@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-websql",
+        "scope": null,
+        "escapedName": "cordova-plugin-websql",
+        "name": "cordova-plugin-websql",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\user\\Desktop\\lgtc\\4407827f-990a-40fe-0ad5-5ef176591377\\cordova\\node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-websql@latest",
+  "_id": "cordova-plugin-websql@0.0.10",
+  "_inCache": true,
+  "_location": "/cordova-plugin-websql",
+  "_nodeVersion": "4.1.1",
+  "_npmUser": {
+    "name": "vsmobile",
+    "email": "vscordovatools-admin@microsoft.com"
+  },
+  "_npmVersion": "2.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-websql",
+    "scope": null,
+    "escapedName": "cordova-plugin-websql",
+    "name": "cordova-plugin-websql",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-websql/-/cordova-plugin-websql-0.0.10.tgz",
+  "_shasum": "bec2aa8910e053dfeb2fc3b9fad408352541a8c0",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-websql",
+  "_where": "C:\\Users\\user\\Desktop\\lgtc\\4407827f-990a-40fe-0ad5-5ef176591377\\cordova\\node_modules",
+  "author": {
+    "name": "Microsoft Open Technologies Inc"
+  },
+  "bugs": {
+    "url": "https://github.com/MSOpenTech/cordova-plugin-websql/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-websql",
+    "platforms": [
+      "wp8",
+      "windows8",
+      "windows"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Websql Plugin",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "bec2aa8910e053dfeb2fc3b9fad408352541a8c0",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-websql/-/cordova-plugin-websql-0.0.10.tgz"
+  },
+  "gitHead": "d555e7b5cd87579f0704def8ffa1db7f1ae9a018",
+  "homepage": "https://github.com/MSOpenTech/cordova-plugin-websql#readme",
+  "keywords": [
+    "cordova",
+    "websql",
+    "ecosystem:cordova",
+    "cordova-windows8",
+    "cordova-windows",
+    "cordova-wp8"
+  ],
+  "license": "Apache 2.0",
+  "maintainers": [
+    {
+      "name": "msopentech",
+      "email": "msopentech@microsoft.com"
+    },
+    {
+      "name": "multidevicehybridapp",
+      "email": "vscordovatools-admin@microsoft.com"
+    },
+    {
+      "name": "vsmobile",
+      "email": "vscordovatools-admin@microsoft.com"
+    }
+  ],
+  "name": "cordova-plugin-websql",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSOpenTech/cordova-plugin-websql.git"
+  },
+  "scripts": {},
+  "version": "0.0.10"
+}
